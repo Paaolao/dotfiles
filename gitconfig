@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = olympiopaola@gmail.com
+	name = Paola Olympio
